@@ -1,46 +1,46 @@
 ,Job,Set,head,body,hands,legs,feet,ears,neck,wrists
-0,AST,2.33,True,False,True,True,False,True,False,False
-1,AST,2.34,False,False,True,True,False,True,False,False
-2,AST,2.43,True,False,True,True,False,True,False,False
-3,BLM,High CRT (1292 SPS),True,True,False,False,True,False,True,False
-4,BLM,High CRT (824 SPS),True,True,False,False,True,False,True,False
-5,BLM,High SPS,False,False,True,True,False,True,False,True
-10,BRD,2.48,False,True,False,False,True,True,False,True
-11,DNC,2.49,False,True,False,False,True,True,False,True
-12,DRG,2.46,True,False,True,True,False,False,True,False
-13,DRG,2.50,True,False,True,True,False,False,True,False
-14,DRK,2.45,False,True,False,False,True,True,False,True
-15,DRK,2.50,False,True,False,False,True,True,False,True
-16,GNB,2.41,False,True,False,False,True,True,False,True
-17,GNB,2.44,False,True,False,False,True,True,False,True
-18,GNB,2.46,False,True,False,False,True,True,False,True
-19,GNB,2.50,False,True,False,False,True,True,False,True
-20,MCH,2.50,False,True,False,False,True,True,False,True
-21,MNK,1.93,True,False,True,True,False,False,True,False
-22,MNK,1.94,False,False,True,True,False,False,True,False
-23,NIN,2.12,True,False,True,True,False,True,False,True
-24,PLD,2.50,False,True,False,False,True,True,False,True
-25,RDM,2.48,True,True,False,False,True,False,True,False
-26,RPR,2.49,True,False,True,True,False,False,True,False
-27,RPR,2.50,True,False,True,True,False,False,True,False
-28,SAM,2.00,False,False,False,True,False,True,True,False
-29,SAM,2.08,False,False,True,True,False,False,True,False
-30,SAM,2.15,True,False,True,True,False,False,True,False
-31,SCH,2.31 Min PIE,False,False,True,True,False,True,False,False
-32,SCH,2.40 Low PIE,True,False,True,True,False,True,False,False
-33,SCH,2.40 Mid PIE,True,False,False,True,False,True,False,False
-34,SCH,2.40 Min PIE,True,False,True,True,False,True,False,False
-35,SGE,2.45,True,False,True,True,False,True,False,False
-36,SGE,2.46,True,False,True,True,False,False,False,False
-37,SGE,2.47,True,False,True,True,False,False,True,False
-38,SMN,2.46,True,True,False,False,True,False,True,False
-39,SMN,2.47,True,True,False,False,True,False,True,False
-40,SMN,2.48,True,True,False,False,True,False,True,False
-41,WAR,2.40,False,True,False,False,True,True,False,True
-42,WAR,2.45,False,True,False,False,True,True,False,True
-43,WAR,2.47,False,True,False,False,True,True,False,True
-44,WAR,2.50,False,True,False,False,True,True,False,True
-45,WHM,2.34,False,False,True,True,False,True,False,False
-46,WHM,2.38,True,False,True,True,False,True,False,False
-47,WHM,2.43,True,False,True,True,False,True,False,False
-48,WHM,2.45,True,False,True,True,False,True,False,False
+0,AST,2.33,False,True,False,False,True,False,True,True
+1,AST,2.34,True,True,False,False,True,False,True,True
+2,AST,2.43,False,True,False,False,True,False,True,True
+3,BLM,High CRT (1292 SPS),False,False,True,True,False,True,False,True
+4,BLM,High CRT (824 SPS),False,False,True,True,False,True,False,True
+5,BLM,High SPS,True,True,False,False,True,False,True,False
+10,BRD,2.48,True,False,True,True,False,False,True,False
+11,DNC,2.49,True,False,True,True,False,False,True,False
+12,DRG,2.46,False,True,False,False,True,True,False,True
+13,DRG,2.50,False,True,False,False,True,True,False,True
+14,DRK,2.45,True,False,True,True,False,False,True,False
+15,DRK,2.50,True,False,True,True,False,False,True,False
+16,GNB,2.41,True,False,True,True,False,False,True,False
+17,GNB,2.44,True,False,True,True,False,False,True,False
+18,GNB,2.46,True,False,True,True,False,False,True,False
+19,GNB,2.50,True,False,True,True,False,False,True,False
+20,MCH,2.50,True,False,True,True,False,False,True,False
+21,MNK,1.93,False,True,False,False,True,True,False,True
+22,MNK,1.94,True,True,False,False,True,True,False,True
+23,NIN,2.12,False,True,False,False,True,False,True,False
+24,PLD,2.50,True,False,True,True,False,False,True,False
+25,RDM,2.48,False,False,True,True,False,True,False,True
+26,RPR,2.49,False,True,False,False,True,True,False,True
+27,RPR,2.50,False,True,False,False,True,True,False,True
+28,SAM,2.00,True,True,True,False,True,False,False,True
+29,SAM,2.08,True,True,False,False,True,True,False,True
+30,SAM,2.15,False,True,False,False,True,True,False,True
+31,SCH,2.31 Min PIE,True,True,False,False,True,False,True,True
+32,SCH,2.40 Low PIE,False,True,False,False,True,False,True,True
+33,SCH,2.40 Mid PIE,False,True,True,False,True,False,True,True
+34,SCH,2.40 Min PIE,False,True,False,False,True,False,True,True
+35,SGE,2.45,False,True,False,False,True,False,True,True
+36,SGE,2.46,False,True,False,False,True,True,True,True
+37,SGE,2.47,False,True,False,False,True,True,False,True
+38,SMN,2.46,False,False,True,True,False,True,False,True
+39,SMN,2.47,False,False,True,True,False,True,False,True
+40,SMN,2.48,False,False,True,True,False,True,False,True
+41,WAR,2.40,True,False,True,True,False,False,True,False
+42,WAR,2.45,True,False,True,True,False,False,True,False
+43,WAR,2.47,True,False,True,True,False,False,True,False
+44,WAR,2.50,True,False,True,True,False,False,True,False
+45,WHM,2.34,True,True,False,False,True,False,True,True
+46,WHM,2.38,False,True,False,False,True,False,True,True
+47,WHM,2.43,False,True,False,False,True,False,True,True
+48,WHM,2.45,False,True,False,False,True,False,True,True
