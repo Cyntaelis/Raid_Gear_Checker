@@ -2,9 +2,9 @@ Job,Set,head,body,hands,legs,feet,ears,neck,wrists
 AST,2.33,False,True,False,False,True,False,True,True
 AST,2.34,True,True,False,False,True,False,True,True
 AST,2.43,False,True,False,False,True,False,True,True
-BLM,High CRT (1292 SPS),False,False,True,True,False,True,False,True
-BLM,High CRT (824 SPS),False,False,True,True,False,True,False,True
-BLM,High SPS,True,True,False,False,True,False,True,False
+BLM,2.34,False,False,True,True,False,True,False,True
+BLM,2.42,False,False,True,True,False,True,False,True
+BLM,2.13,True,True,False,False,True,False,True,False
 BRD,2.48,True,False,True,True,False,False,True,False
 DNC,2.49,True,False,True,True,False,False,True,False
 DRG,2.46,False,True,False,False,True,True,False,True
