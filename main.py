@@ -10,6 +10,6 @@ st.set_page_config(
 df = pd.read_csv("./tome_raid.csv", header=0)
 st.title("Raid Gear BiS Checker")
 st.subheader("Check = Raid Gear")
-st.markdown("[Code available here](https://github.com/Cyntaelis/Raid_Gear_Checker/)", unsafe_allow_html=True)
+#st.markdown("[Code available here](https://github.com/Cyntaelis/Raid_Gear_Checker/)", unsafe_allow_html=True)
 st.dataframe(df)
 
